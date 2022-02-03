@@ -59,7 +59,7 @@ namespace Kalkulator
                 tbOutput.Text = outputValue.ToString();
             } else
             {
-                tbOutput.Text = 0.ToString();
+                tbOutput.Text = "0";
             }
         }
 
